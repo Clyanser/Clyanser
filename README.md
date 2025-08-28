@@ -31,6 +31,5 @@
   </p>
 
 [![Clyanser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clyanser&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Clyanser`s langs user](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyanser&layout=compact&theme=buefy&hide_border=true)]
-(https://github.com/anuraghazra/github-readme-stats)
+
 
